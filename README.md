@@ -6,11 +6,6 @@
   Maheen Syed (GitHubUserA), Myra Khare (@myrakhare)
   
 ## Project Description 
-Max 1/2 page, include:
-- what dataset we plan to use
-- goal of the project
-
-- Add references
 
 Epilepsy is a neurological disorder affecting over 50 million people worldwide, characterized by recurrent, unprovoked seizures. [1] Accurate and timely diagnosis is critical for effective treatment planning. However, current diagnostic methods rely heavily on expert interpretation of neuroimaging, specifically structural magnetic resonance imaging (MRI). [2] [3] This process is time-intensive, subjective, and often limited by the availability of trained neurologists, especially in low-resource settings. [3] 
 
